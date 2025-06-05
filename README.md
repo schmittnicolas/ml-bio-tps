@@ -1,3 +1,3 @@
 # ml-bio-tps
 
-Rendu des tp de MLBio.
+Rendu des TPs de MLBio.
